@@ -2,9 +2,9 @@
 # Christopher K. Black
 
 University of Illinois 
-Room 1500 Institute for Genomic Biology
+Room 1500, Institute for Genomic Biology
 1206 W Gregory Drive
-Urbana, IL 61801
+Urbana IL 61801
 (503) 929-9421
 black11@illinois.edu, chris@ckblack.org
 
