@@ -12,6 +12,9 @@ black11@illinois.edu, chris@ckblack.org
 Ph.D. in progress, Plant Biology. University of Illinois, completion expected 2015.
 B.A., Biology. Reed College 2008.
 
+## What I Do
+Ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in stable isotope methods and reproducible data analysis.
+
 ## Papers and Presentations
 
 Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T, David, M.B. & DeLucia, E.H. Soil nutrient removal by four potential bioenergy crops: *Zea mays*, *Panicum virgatum*, *Miscanthus* x *giganteus*, and prairie. Submitted.
