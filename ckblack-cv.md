@@ -67,5 +67,3 @@ Manuscripts reviewed for:
 Research Assistant, University of Illinois/Energy Biosciences Institute, Urbana IL. 2009-present.
 Teaching assistant, University of Illinois School of Integrative Biology, Urbana IL. 2013. 
 Plant Genomics Research intern, Boyce Thompson Institute, Ithaca NY. 2007.
-
-## Other
