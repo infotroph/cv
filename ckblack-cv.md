@@ -50,9 +50,9 @@ Faculty commendation for academic excellence, Reed College 2004-2005.
 
 Officer for Plant Biology Association of Graduate Students (PBAGS), University of Illinois:
 
-* Colloquium coordinator, 2012-2013.
-* Graduate Affairs committee, 2013-2014.
 * Chair, 2014-2015.
+* Graduate Affairs committee, 2013-2014.
+* Colloquium coordinator, 2012-2013.
 
 Bio-Outreach program, University of Illinois. 2010.
 
