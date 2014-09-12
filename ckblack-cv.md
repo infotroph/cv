@@ -8,11 +8,11 @@ Urbana, IL 61801
 (503) 929-9421
 black11@illinois.edu, chris@ckblack.org
 
-### Education
+## Education
 Ph.D. in progress, Plant Biology. University of Illinois, completion expected 2015.
 B.A., Biology. Reed College 2008.
 
-### Papers and Presentations
+## Papers and Presentations
 
 Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T, David, M.B. & DeLucia, E.H. Soil nutrient removal by four potential bioenergy crops: *Zea mays*, *Panicum virgatum*, *Miscanthus* x *giganteus*, and prairie. Submitted.
 
@@ -31,7 +31,7 @@ Anderson-Teixeira, K.J., Masters, M.D., **Black, C.K.**, Zeri, M., Hussain, M.Z.
 Lin, R., Teng, Y., Park, H.J., Ding, L., **Black, C.**, Fang, P., Wang, H. 2008. Discrete and essential roles of the multiple domains of arabidopsis FHY3 in mediating phytochrome A signal transduction. Plant Physiology 148: 981-992. DOI: [10.​1104/​pp.​108.​120436](http:/​/​dx.​doi.​org/​10.​1104/​pp.​108.​120436)
 
 
-### Honors and Awards
+## Honors and Awards
 
 Internship in Plant Genomics at Boyce Thompson Institute, supported by NSF Research Experience for Undergraduates grant DBI0453331, 2007. 
 
@@ -41,24 +41,26 @@ Undergraduate research supported by a grant to Reed College from the James F. an
 
 Faculty commendation for academic excellence, Reed College 2004-2005.
 
-### Service
+## Service
 
 Officer for Plant Biology Association of Graduate Students (PBAGS), University of Illinois:
-	Colloquium coordinator, 2012-2013.
-	Graduate Affairs committee, 2013-2014.
-	Chair, 2014-2015.
+
+* Colloquium coordinator, 2012-2013.
+* Graduate Affairs committee, 2013-2014.
+* Chair, 2014-2015.
 
 Bio-Outreach program, University of Illinois. 2010.
 
-Manuscripts reviewed for
-	PlOS ONE 
-	Ecologia
-	Biology and Fertility of Soils
+Manuscripts reviewed for:
 
-### Selected Professional Experience
+* PlOS ONE 
+* Ecologia
+* Biology and Fertility of Soils
 
-Research Assistant, University of Illinois/Energy Biosciences Institute, Urbana IL. 2009-present
+## Selected Professional Experience
+
+Research Assistant, University of Illinois/Energy Biosciences Institute, Urbana IL. 2009-present. Extensive 
 Teaching assistant, University of Illinois School of Integrative Biology, Urbana IL. 2013
 Plant Genomics Research intern, Boyce Thompson Institute, Ithaca NY. 2007.
 
-### Other
+## Other
