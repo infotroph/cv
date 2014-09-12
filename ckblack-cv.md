@@ -23,6 +23,8 @@ Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T, David, M.B.
 
 Anderson-Teixeira, K.J., Masters, M.D., **Black, C.K.**, Zeri, M., Hussain, M.Z., Bernacchi, C.J. & DeLucia, E.H. 2013. Altered belowground carbon cycling following land-use change to perennial bioenergy crops. Ecosystems 16: 508–520. DOI: [10.1007/s10021-012-9628-x](http://dx.doi.org/10.1007/s10021-012-9628-x)
 
+**Black, C.K.**, Davis, S.C., Bernacchi, C.J., DeLucia, E.H. "Elevated temperature and carbon dioxide prime soil-specific increases in heterotrophic respiration". Oral paper presented at the Ecological Society of America annual meeting, August 2012.
+
 **Black, C.K.**, Davis, S.C., Bernacchi, C.J., DeLucia, E.H. "Transient increases of heterotrophic respiration from soil with elevated atmospheric carbon dioxide and temperature". Oral paper presented at the Ecological Society of America annual meeting, August 2011.
 
 **Black, C.K.**, Davis, S.C., Bernacchi, C.J., DeLucia, E.H. "Ecosystem warming alters heterotrophic but not total soil respiration at SoyFACE". Poster presented at INTERFACE workshop, Captiva Island FL, February 2011.
