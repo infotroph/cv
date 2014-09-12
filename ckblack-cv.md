@@ -17,9 +17,9 @@ Ecophysiology, biogeochemistry, and global change ecology of belowground interac
 
 ## Papers and Presentations
 
-Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T, David, M.B. & DeLucia, E.H. Soil nutrient removal by four potential bioenergy crops: *Zea mays*, *Panicum virgatum*, *Miscanthus* x *giganteus*, and prairie. Submitted.
+Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T., David, M.B. & DeLucia, E.H. Soil nutrient removal by four potential bioenergy crops: *Zea mays*, *Panicum virgatum*, *Miscanthus* x *giganteus*, and prairie. Submitted.
 
-**Black, C.K.**. "How much carbon, for how long?" Talk presented for Chambana Science Café, Urbana IL, April 2013.
+**Black, C.K.**. "How much carbon, for how long?" Invited talk at Chambana Science Café, Urbana IL, April 2013.
 
 Anderson-Teixeira, K.J., Masters, M.D., **Black, C.K.**, Zeri, M., Hussain, M.Z., Bernacchi, C.J. & DeLucia, E.H. 2013. Altered belowground carbon cycling following land-use change to perennial bioenergy crops. Ecosystems 16: 508–520. DOI: [10.1007/s10021-012-9628-x](http://dx.doi.org/10.1007/s10021-012-9628-x)
 
@@ -58,14 +58,14 @@ Bio-Outreach program, University of Illinois. 2010.
 
 Manuscripts reviewed for:
 
-* PlOS ONE 
+* PLOS ONE 
 * Ecologia
 * Biology and Fertility of Soils
 
 ## Selected Professional Experience
 
-Research Assistant, University of Illinois/Energy Biosciences Institute, Urbana IL. 2009-present. Extensive 
-Teaching assistant, University of Illinois School of Integrative Biology, Urbana IL. 2013
+Research Assistant, University of Illinois/Energy Biosciences Institute, Urbana IL. 2009-present.
+Teaching assistant, University of Illinois School of Integrative Biology, Urbana IL. 2013. 
 Plant Genomics Research intern, Boyce Thompson Institute, Ithaca NY. 2007.
 
 ## Other
