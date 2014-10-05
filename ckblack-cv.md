@@ -13,7 +13,7 @@ Ph.D. in progress, Plant Biology. University of Illinois, completion expected 20
 B.A., Biology. Reed College 2008.
 
 ## What I Do
-Ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in stable isotope methods and reproducible data analysis.
+Ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in stable isotope methods and reproducible data analysis. Less special skill: very good at digging holes.
 
 ## Papers and Presentations
 
