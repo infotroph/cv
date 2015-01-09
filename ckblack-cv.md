@@ -1,11 +1,11 @@
 
 # Christopher K. Black
 
-University of Illinois 
-Room 1500, Institute for Genomic Biology
-1206 W Gregory Drive
-Urbana IL 61801
-(503) 929-9421
+University of Illinois  
+Room 1500, Institute for Genomic Biology  
+1206 W Gregory Drive  
+Urbana IL 61801  
+(503) 929-9421  
 black11@illinois.edu, chris@ckblack.org
 
 ## Education
@@ -16,6 +16,8 @@ B.A., Biology. Reed College 2008.
 Ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in stable isotope methods and reproducible data analysis. Less special skill: very good at digging holes.
 
 ## Papers and Presentations
+
+**Black, C.K.**, Miller, J.M., Masters, M.D., Bernacchi, C.J. & DeLucia, E.H. "Field-Scale Partitioning of Ecosystem Respiration Components in a Bioenergy Grass Ecosystem". Poster presented at the American Geophysical Union annual meeting, December 2014.
 
 Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T., David, M.B. & DeLucia, E.H. Soil nutrient removal by four potential bioenergy crops: *Zea mays*, *Panicum virgatum*, *Miscanthus* x *giganteus*, and prairie. Submitted.
 
@@ -65,5 +67,7 @@ Manuscripts reviewed for:
 ## Selected Professional Experience
 
 Research Assistant, University of Illinois/Energy Biosciences Institute, Urbana IL. 2009-present.
+
 Teaching assistant, University of Illinois School of Integrative Biology, Urbana IL. 2013. 
+
 Plant Genomics Research intern, Boyce Thompson Institute, Ithaca NY. 2007.
