@@ -10,6 +10,7 @@ black11@illinois.edu, chris@ckblack.org
 
 ## Education
 Ph.D. in progress, Plant Biology. University of Illinois, completion expected 2015.
+
 B.A., Biology. Reed College 2008.
 
 ## What I Do
