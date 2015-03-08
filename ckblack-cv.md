@@ -36,7 +36,7 @@ Anderson-Teixeira, K.J., Masters, M.D., **Black, C.K.**, Zeri, M., Hussain, M.Z.
 
 **Black, C.K.** 2008. Associative Nitrogen Fixation Ability Does Not Predict Symbiotic Nodulation Ability in *Burkholderia tropica*. Reed College thesis.
 
-Lin, R., Teng, Y., Park, H.J., Ding, L., **Black, C.**, Fang, P., Wang, H. 2008. Discrete and essential roles of the multiple domains of arabidopsis FHY3 in mediating phytochrome A signal transduction. Plant Physiology 148: 981-992. DOI: [10.​1104/​pp.​108.​120436](http:/​/​dx.​doi.​org/​10.​1104/​pp.​108.​120436)
+Lin, R., Teng, Y., Park, H.J., Ding, L., **Black, C.**, Fang, P., Wang, H. 2008. Discrete and essential roles of the multiple domains of arabidopsis FHY3 in mediating phytochrome A signal transduction. Plant Physiology 148: 981-992. DOI: [10.1104/pp.108.120436](http://dx.doi.org/10.1104/pp.108.120436)
 
 
 ## Honors and Awards
