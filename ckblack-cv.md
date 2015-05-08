@@ -41,6 +41,8 @@ Lin, R., Teng, Y., Park, H.J., Ding, L., **Black, C.**, Fang, P., Wang, H. 2008.
 
 ## Honors and Awards
 
+John R. Laughnan award from the University of Illinois Department of Plant Biology, 2015.
+
 Internship in Plant Genomics at Boyce Thompson Institute, supported by NSF Research Experience for Undergraduates grant DBI0453331, 2007. 
 
 Thesis research supported by a grant to Reed College from the James F. and Marion L. Miller Foundation, 2007-2008.
