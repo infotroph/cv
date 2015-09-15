@@ -20,7 +20,7 @@ Ecophysiology, biogeochemistry, and global change ecology of belowground interac
 
 **Black, C.K.**, Miller, J.M., Masters, M.D., Bernacchi, C.J. & DeLucia, E.H. "Field-Scale Partitioning of Ecosystem Respiration Components in a Bioenergy Grass Ecosystem". Poster presented at the American Geophysical Union annual meeting, December 2014.
 
-Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T., David, M.B. & DeLucia, E.H. Soil nutrient removal by four potential bioenergy crops: *Zea mays*, *Panicum virgatum*, *Miscanthus* x *giganteus*, and prairie. Submitted.
+Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T., David, M.B. & DeLucia, E.H. 2015. Soil nutrient removal by four potential bioenergy crops: *Zea mays*, *Panicum virgatum*, *Miscanthus* x *giganteus*, and prairie. Accepted to Agriculture, Ecosystems & Environment.
 
 **Black, C.K.**. "How much carbon, for how long?" Invited talk at Chambana Science Café, Urbana IL, April 2013.
 
