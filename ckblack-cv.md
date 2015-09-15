@@ -71,9 +71,9 @@ Manuscripts reviewed for:
 
 ## Selected Professional Experience
 
-Research Assistant, University of Illinois/Energy Biosciences Institute, Urbana IL. 2009-present.
+Research Assistant, University of Illinois/Energy Biosciences Institute, Urbana IL. 2009-2015.
 
-Teaching assistant, University of Illinois School of Integrative Biology, Urbana IL. 2013. 
+Teaching assistant, University of Illinois School of Integrative Biology, Urbana IL. 2013 & 2015. 
 
 Plant Genomics Research intern, Boyce Thompson Institute, Ithaca NY. 2007.
 
