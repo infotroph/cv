@@ -18,11 +18,11 @@ Ecophysiology, biogeochemistry, and global change ecology of belowground interac
 
 ## Papers and Presentations
 
+Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T., David, M.B. & DeLucia, E.H. 2016. Soil nutrient removal by four potential bioenergy crops: *Zea mays*, *Panicum virgatum*, *Miscanthus* x *giganteus*, and prairie. Agriculture, Ecosystems & Environment 216:51-60. DOI: [10.1016/j.agee.2015.09.016](http://dx.doi.org/10.1016/j.agee.2015.09.016)
+
 **Black, C.K.**, Masters, M.D., Anderson-Teixeira, K.J., DeLucia, E.H. 2015. "3 m up, >1.3 m under: Tracking carbon fluxes of a change from Midwestern row crops to perennial grasses". Oral paper presented at the Ecological Society of America annual meeting, August 2015.
 
 **Black, C.K.**, Miller, J.M., Masters, M.D., Bernacchi, C.J. & DeLucia, E.H. "Field-Scale Partitioning of Ecosystem Respiration Components in a Bioenergy Grass Ecosystem". Poster presented at the American Geophysical Union annual meeting, December 2014.
-
-Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T., David, M.B. & DeLucia, E.H. 2015. Soil nutrient removal by four potential bioenergy crops: *Zea mays*, *Panicum virgatum*, *Miscanthus* x *giganteus*, and prairie. Accepted to Agriculture, Ecosystems & Environment.
 
 **Black, C.K.**. "How much carbon, for how long?" Invited talk at Chambana Science Café, Urbana IL, April 2013.
 
