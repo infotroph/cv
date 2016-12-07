@@ -16,7 +16,7 @@ Modeling and data-wrangling to understand the ecophysiology, biogeochemistry, an
 
 **Black, C.K.**, Masters, M.D., LeBauer, D.S., Anderson-Teixeira, K.J., DeLucia, E.H. 2016. Root volume distribution of maturing perennial grasses revealed by correcting for minirhizotron surface effects. Submitted to Ecological Applications.
  
-**Black, C.K.**, Davis, S.C, Hudiburg, T.W., Bernacchi, C.J., DeLucia, E.H. 2016. Elevated CO<sub>2</sub> and temperature increase soil C losses from a soy-maize ecosystem. Global Change Biology. DOI: [10.1111/gcb.13378](http://dx.doi.org/10.1111/gcb.13378).
+**Black, C.K.**, Davis, S.C, Hudiburg, T.W., Bernacchi, C.J., DeLucia, E.H. 2016. Elevated CO<sub>2</sub> and temperature increase soil C losses from a soybean-maize ecosystem. Global Change Biology. DOI: [10.1111/gcb.13378](http://dx.doi.org/10.1111/gcb.13378).
 
 Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T., David, M.B. & DeLucia, E.H. 2016. Soil nutrient removal by four potential bioenergy crops: *Zea mays*, *Panicum virgatum*, *Miscanthus* x *giganteus*, and prairie. Agriculture, Ecosystems & Environment 216:51-60. DOI: [10.1016/j.agee.2015.09.016](http://dx.doi.org/10.1016/j.agee.2015.09.016)
 
