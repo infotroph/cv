@@ -22,7 +22,7 @@ Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T., David, M.B
 
 Anderson-Teixeira, K.J., Masters, M.D., **Black, C.K.**, Zeri, M., Hussain, M.Z., Bernacchi, C.J. & DeLucia, E.H. 2013. Altered belowground carbon cycling following land-use change to perennial bioenergy crops. Ecosystems 16: 508–520. DOI: [10.1007/s10021-012-9628-x](http://dx.doi.org/10.1007/s10021-012-9628-x)
 
-**Black, C.K.** 2008. Associative Nitrogen Fixation Ability Does Not Predict Symbiotic Nodulation Ability in *Burkholderia tropica*. Reed College thesis.
+**Black, C.K.** 2008. Associative Nitrogen Fixation Ability Does Not Predict Symbiotic Nodulation Ability in *Burkholderia tropica*. Reed College thesis. WorldCat:[268908795](https://www.worldcat.org/search?q=268908795)
 
 Lin, R., Teng, Y., Park, H.J., Ding, L., **Black, C.**, Fang, P., Wang, H. 2008. Discrete and essential roles of the multiple domains of arabidopsis FHY3 in mediating phytochrome A signal transduction. Plant Physiology 148: 981-992. DOI: [10.1104/pp.108.120436](http://dx.doi.org/10.1104/pp.108.120436)
 
