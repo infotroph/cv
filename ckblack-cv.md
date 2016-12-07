@@ -11,7 +11,7 @@ Ph.D., Plant Biology. University of Illinois, 2016.
 B.A., Biology. Reed College 2008.
 
 ## What I Do
-Modeling and data-wrangling to understand the ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in Bayesian statistics, reproducible data analysis, and stable isotope methods. Less special skill: very good at digging holes.
+Modeling, data wrangling, and biology. Research interests in ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in Bayesian statistics, reproducible data analysis, and stable isotope methods. Less special skill: very good at digging holes.
 
 ## Publications
 
