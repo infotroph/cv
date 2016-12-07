@@ -1,15 +1,11 @@
 
 # Christopher K. Black
 
-University of Illinois  
-Room 1500, Institute for Genomic Biology  
-1206 W Gregory Drive  
-Urbana IL 61801  
 (503) 929-9421  
-black11@illinois.edu, chris@ckblack.org
+chris@ckblack.org
 
 ## Education
-Ph.D. in progress, Plant Biology. University of Illinois, completion expected 2016.
+Ph.D., Plant Biology. University of Illinois, 2016.
 
 B.A., Biology. Reed College 2008.
 
@@ -87,4 +83,4 @@ Dr. Evan DeLucia, PhD advisor: delucia@life.illinois.edu, 217 333-6177
 
 Dr. Carl Bernacchi: bernacch@illinois.edu, 217 333-8048
 
-Dr. Scott Woolbright: saw9@igb.uiuc.edu, 479 220-9340
+Dr. Scott Woolbright: sawoolbright@ualr.edu, 479 220-9340
