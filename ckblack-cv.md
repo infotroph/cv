@@ -85,11 +85,3 @@ Teaching assistant, University of Illinois School of Integrative Biology, Urbana
 * IB 203 Ecology, 2013
 
 Plant Genomics Research intern, Boyce Thompson Institute, Ithaca NY. 2007.
-
-## References
-
-Dr. Evan DeLucia, PhD advisor: delucia@life.illinois.edu, 217 333-6177
-
-Dr. Carl Bernacchi: bernacch@illinois.edu, 217 333-8048
-
-Dr. Scott Woolbright: sawoolbright@ualr.edu, 479 220-9340
