@@ -6,7 +6,7 @@ State College, PA
 chris@ckblack.org  
 
 ## Education
-Ph.D., Plant Biology. University of Illinois, 2016.
+Ph.D., Plant Biology. University of Illinois 2016.
 
 B.A., Biology. Reed College 2008.
 
