@@ -33,6 +33,8 @@ Lin, R., Teng, Y., Park, H.J., Ding, L., **Black, C.**, Fang, P., Wang, H. 2008.
 
 **Black, C.K.**, Davis, S.C, Hudiburg, T.W., Bernacchi, C.J., DeLucia, E.H. 2015. "Climate change increases soil C losses from a corn-soy ecosystem". Poster presented at the American Geophysical Union annual meeting, December 2015.
 
+**Black, C.K.**, Masters, M.D., Anderson-Teixeira, K.J., DeLucia, E.H. 2015. "3 m up, >1.3 m under: Tracking carbon fluxes of a change from Midwestern row crops to perennial grasses". Oral paper presented at the Ecological Society of America annual meeting, August 2015.
+
 **Black, C.K.**, Miller, J.M., Masters, M.D., Bernacchi, C.J. & DeLucia, E.H. "Field-Scale Partitioning of Ecosystem Respiration Components in a Bioenergy Grass Ecosystem". Poster presented at the American Geophysical Union annual meeting, December 2014.
 
 **Black, C.K.**. "How much carbon, for how long?" Invited talk at Chambana Science Café, Urbana IL, April 2013.
