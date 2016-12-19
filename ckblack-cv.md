@@ -15,7 +15,7 @@ Modeling, data wrangling, and biology. Research interests in ecophysiology, biog
 
 ## Publications
 
-**Black, C.K.**, Masters, M.D., LeBauer, D.S., Anderson-Teixeira, K.J., DeLucia, E.H. 2016. Root volume distribution of maturing perennial grasses revealed by correcting for minirhizotron surface effects. Submitted to Ecological Applications.
+**Black, C.K.**, Masters, M.D., LeBauer, D.S., Anderson-Teixeira, K.J., DeLucia, E.H. Root volume distribution of maturing perennial grasses revealed by correcting for minirhizotron surface effects. Submitted to Ecological Applications.
 
 **Black, C.K.**, Davis, S.C, Hudiburg, T.W., Bernacchi, C.J., DeLucia, E.H. 2017. Elevated CO<sub>2</sub> and temperature increase soil C losses from a soybean-maize ecosystem. Global Change Biology 23:435-445. DOI: [10.1111/gcb.13378](http://dx.doi.org/10.1111/gcb.13378).
 
