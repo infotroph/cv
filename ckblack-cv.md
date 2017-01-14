@@ -9,15 +9,17 @@ Ph.D., Plant Biology. University of Illinois 2016.
 B.A., Biology. Reed College 2008.
 
 ## What I Do
-Modeling, data wrangling, and biology. Research interests in ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in Bayesian statistics, reproducible data analysis, and stable isotope methods. Less special skill: very good at digging holes.
+Modeling, data wrangling, and biology. Research interests in ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in Bayesian statistics, reproducible data analysis, and programming for high-performance computing environments. Less special skill: very good at digging holes.
 
 ## Publications
 
-**Black, C.K.**, Masters, M.D., LeBauer, D.S., Anderson-Teixeira, K.J., DeLucia, E.H. Root volume distribution of maturing perennial grasses revealed by correcting for minirhizotron surface effects. Submitted to Ecological Applications.
+**Black, C.K.**, Woolbright, S.A., Pederson, T.L., Sligar, C.R., DeLucia, E.H. Metagenomic sequencing of soil cores shows taxonomic partitioning of root placement by depth in a prairie plant community. Manuscript in prep. Text, data, and code available at [https://github.com/infotroph/Prairie_seq](https://github.com/infotroph/Prairie_seq)
+
+**Black, C.K.**, Masters, M.D., LeBauer, D.S., Anderson-Teixeira, K.J., DeLucia, E.H. Root volume distribution of maturing perennial grasses revealed by correcting for minirhizotron surface effects. Manuscript in prep. Data and code available at [https://github.com/infotroph/efrhizo](https://github.com/infotroph/efrhizo)
 
 **Black, C.K.**, Davis, S.C, Hudiburg, T.W., Bernacchi, C.J., DeLucia, E.H. 2017. Elevated CO<sub>2</sub> and temperature increase soil C losses from a soybean-maize ecosystem. Global Change Biology 23:435-445. DOI: [10.1111/gcb.13378](http://dx.doi.org/10.1111/gcb.13378).
 
-**Black, C.K.** 2016. Plant root contributions to the carbon balance of a changing agricultural Midwest. University of Illinois doctoral dissertation.
+**Black, C.K.** 2016. Plant root contributions to the carbon balance of a changing agricultural Midwest. University of Illinois doctoral dissertation. [http://ckblack.org/CK_Black_dissertation.pdf](http://ckblack.org/CK_Black_dissertation.pdf)
  
 Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T., David, M.B. & DeLucia, E.H. 2016. Soil nutrient removal by four potential bioenergy crops: *Zea mays*, *Panicum virgatum*, *Miscanthus* x *giganteus*, and prairie. Agriculture, Ecosystems & Environment 216:51-60. DOI: [10.1016/j.agee.2015.09.016](http://dx.doi.org/10.1016/j.agee.2015.09.016)
 
@@ -85,3 +87,5 @@ Teaching assistant, University of Illinois School of Integrative Biology, Urbana
 * IB 203 Ecology, 2013
 
 Plant Genomics Research intern, Boyce Thompson Institute, Ithaca NY. 2007.
+
+Web Developer, Reed College, 2004-2007.
