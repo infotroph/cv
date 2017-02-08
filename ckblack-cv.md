@@ -78,9 +78,11 @@ Manuscripts reviewed for:
 
 ## Selected Professional Experience
 
+R Programmer, National Center for Supercomputing Applications, Urbana IL. Feb. 2017 - present.
+
 Research Assistant, University of Illinois/Energy Biosciences Institute, Urbana IL. 2009-2015.
 
-Teaching assistant, University of Illinois School of Integrative Biology, Urbana IL:
+Teaching Assistant, University of Illinois School of Integrative Biology, Urbana IL:
 
 * IB 100 Integrative Biology, 2016.
 * IB 411 Bioinspiration, 2015
