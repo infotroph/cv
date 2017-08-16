@@ -15,7 +15,7 @@ Modeling, data wrangling, and biology. Research interests in ecophysiology, biog
 
 **Black, C.K.**, Woolbright, S.A., Pederson, T.L., Sligar, C.R., DeLucia, E.H. Metagenomic sequencing of soil cores shows taxonomic partitioning of root placement by depth in a prairie plant community. Submitted. Text, data, and code available at [https://github.com/infotroph/Prairie_seq](https://github.com/infotroph/Prairie_seq)
 
-**Black, C.K.**, Masters, M.D., LeBauer, D.S., Anderson-Teixeira, K.J., DeLucia, E.H. Root volume distribution of maturing perennial grasses revealed by correcting for minirhizotron surface effects. Submitted. Data and code available at [https://github.com/infotroph/efrhizo](https://github.com/infotroph/efrhizo)
+**Black, C.K.**, Masters, M.D., LeBauer, D.S., Anderson-Teixeira, K.J., DeLucia, E.H. 2017. Root volume distribution of maturing perennial grasses revealed by correcting for minirhizotron surface effects. Plant and Soil. DOI: [10.1007/s11104-017-3333-7](http://dx.doi.org/10.1007/s11104-017-3333-7). Data available in Dryad: [http://dx.doi.org/10.5061/dryad.79822](http://dx.doi.org/10.5061/dryad.79822)
 
 **Black, C.K.**, Davis, S.C, Hudiburg, T.W., Bernacchi, C.J., DeLucia, E.H. 2017. Elevated CO<sub>2</sub> and temperature increase soil C losses from a soybean-maize ecosystem. Global Change Biology 23:435-445. DOI: [10.1111/gcb.13378](http://dx.doi.org/10.1111/gcb.13378).
 
