@@ -17,7 +17,7 @@ Modeling, data wrangling, and biology. Research interests in ecophysiology, biog
 
 **Black, C.K.**, Masters, M.D., LeBauer, D.S., Anderson-Teixeira, K.J., DeLucia, E.H. 2017. Root volume distribution of maturing perennial grasses revealed by correcting for minirhizotron surface effects. Plant and Soil. DOI: [10.1007/s11104-017-3333-7](http://dx.doi.org/10.1007/s11104-017-3333-7). Data available in Dryad: [http://dx.doi.org/10.5061/dryad.79822](http://dx.doi.org/10.5061/dryad.79822)
 
-**Black, C.K.**, Davis, S.C, Hudiburg, T.W., Bernacchi, C.J., DeLucia, E.H. 2017. Elevated CO<sub>2</sub> and temperature increase soil C losses from a soybean-maize ecosystem. Global Change Biology 23:435-445. DOI: [10.1111/gcb.13378](http://dx.doi.org/10.1111/gcb.13378).
+**Black, C.K.**, Davis, S.C, Hudiburg, T.W., Bernacchi, C.J., DeLucia, E.H. 2017. Elevated CO<sub>2</sub> and temperature increase soil C losses from a soybean-maize ecosystem. Global Change Biology 23:435-445. DOI: [10.1111/gcb.13378](http://dx.doi.org/10.1111/gcb.13378). Data available in Dryad: [http://dx.doi.org/10.5061/dryad.bn7j3](http://dx.doi.org/10.5061/dryad.bn7j3)
 
 **Black, C.K.** 2016. Plant root contributions to the carbon balance of a changing agricultural Midwest. University of Illinois doctoral dissertation. [https://www.ideals.illinois.edu/handle/2142/95339](https://www.ideals.illinois.edu/handle/2142/95339)
  
