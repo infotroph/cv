@@ -76,6 +76,8 @@ Manuscripts reviewed for:
 * Ecologia
 * Biology and Fertility of Soils
 * Ecosphere
+* Annals of Botany
+* Plant Physiology
 
 ## Selected Professional Experience
 
