@@ -19,7 +19,7 @@ Modeling, data wrangling, and biology. Research interests in ecophysiology, biog
 
 **Black, C.K.**, Davis, S.C, Hudiburg, T.W., Bernacchi, C.J., DeLucia, E.H. 2017. Elevated CO<sub>2</sub> and temperature increase soil C losses from a soybean-maize ecosystem. Global Change Biology 23:435-445. DOI: [10.1111/gcb.13378](http://dx.doi.org/10.1111/gcb.13378).
 
-**Black, C.K.** 2016. Plant root contributions to the carbon balance of a changing agricultural Midwest. University of Illinois doctoral dissertation. [http://ckblack.org/CK_Black_dissertation.pdf](http://ckblack.org/CK_Black_dissertation.pdf)
+**Black, C.K.** 2016. Plant root contributions to the carbon balance of a changing agricultural Midwest. University of Illinois doctoral dissertation. [https://www.ideals.illinois.edu/handle/2142/95339](https://www.ideals.illinois.edu/handle/2142/95339)
  
 Masters, M.D., **Black, C.K.**, Kantola, I.B., Woli, K.P., Voigt, T., David, M.B. & DeLucia, E.H. 2016. Soil nutrient removal by four potential bioenergy crops: *Zea mays*, *Panicum virgatum*, *Miscanthus* x *giganteus*, and prairie. Agriculture, Ecosystems & Environment 216:51-60. DOI: [10.1016/j.agee.2015.09.016](http://dx.doi.org/10.1016/j.agee.2015.09.016)
 
@@ -75,8 +75,11 @@ Manuscripts reviewed for:
 * PLOS ONE 
 * Ecologia
 * Biology and Fertility of Soils
+* Ecosphere
 
 ## Selected Professional Experience
+
+Postdoctoral Scholar, Pennsylvania State University. Apr. 2017 - present.
 
 R Programmer, National Center for Supercomputing Applications, Urbana IL. Feb. 2017 - present.
 
@@ -88,6 +91,6 @@ Teaching Assistant, University of Illinois School of Integrative Biology, Urbana
 * IB 411 Bioinspiration, 2015
 * IB 203 Ecology, 2013
 
-Plant Genomics Research intern, Boyce Thompson Institute, Ithaca NY. 2007.
+Plant Genomics Research NSF-REU intern, Boyce Thompson Institute, Ithaca NY. 2007.
 
 Web Developer, Reed College, 2004-2007.
