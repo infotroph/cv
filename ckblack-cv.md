@@ -37,7 +37,7 @@ Lin, R., Teng, Y., Park, H.J., Ding, L., **Black, C.**, Fang, P., Wang, H. 2008.
 
 ## Invited talks
 
-**Black, C.K.** November 2017. Inferring root-soil interactions: When samples are expensive, a model can help. Department seminar, University of Arkansas at Little Rock.
+**Black, C.K.** November 2017. Inferring root-soil interactions: When samples are expensive, a model can help. Biology Department seminar, University of Arkansas at Little Rock.
 
 **Black, C.K.** April 2013. How much carbon, for how long? Chambana Science Café, Urbana IL.
 
