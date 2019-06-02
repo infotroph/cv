@@ -4,16 +4,16 @@
 chris@ckblack.org, +1 503 929 9421
 
 
+## What I Do
+
+Modeling, data wrangling, and biology. Research interests in ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in Bayesian statistics, reproducible data analysis, R and C++  application development, and programming for high-performance computing environments. Less special skill: very good at digging holes.
+
+
 ## Education
 
 Ph.D., Plant Biology. University of Illinois 2016.
 
 B.A., Biology. Reed College 2008.
-
-
-## What I Do
-
-Modeling, data wrangling, and biology. Research interests in ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in Bayesian statistics, reproducible data analysis, R and C++  application development, and programming for high-performance computing environments. Less special skill: very good at digging holes.
 
 
 ## Publications
