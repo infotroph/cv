@@ -72,12 +72,15 @@ Bio-Outreach program, University of Illinois. 2010.
 
 Manuscripts reviewed for:
 
-* PLOS ONE 
-* Ecologia
-* Biology and Fertility of Soils
-* Ecosphere
 * Annals of Botany
+* Biology and Fertility of Soils
+* Ecologia
+* Ecosphere
+* Journal of Experimental Botany
+* Plant and Soil
 * Plant Physiology
+* PLOS ONE
+* Scientific Reports
 
 ## Selected Professional Experience
 
