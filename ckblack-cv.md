@@ -1,7 +1,7 @@
 
 # Christopher K. Black
 
-chris@ckblack.org, (503) 929-9421
+chris@ckblack.org, +1 503 929 9421
 
 ## Education
 Ph.D., Plant Biology. University of Illinois 2016.
