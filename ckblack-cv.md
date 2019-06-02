@@ -71,25 +71,11 @@ John R. Laughnan award from the University of Illinois Department of Plant Biolo
 
 ## Service
 
-Officer for Plant Biology Association of Graduate Students (PBAGS), University of Illinois:
-
-* Chair, 2014-2015.
-* Graduate Affairs committee, 2013-2014.
-* Colloquium coordinator, 2012-2013.
+Officer for Plant Biology Association of Graduate Students (PBAGS), University of Illinois: Chair 2014-2015, Graduate Affairs committee, 2013-2014, Colloquium coordinator 2012-2013.
 
 Bio-Outreach program, University of Illinois. 2010.
 
-Manuscripts reviewed for:
-
-* Annals of Botany
-* Biology and Fertility of Soils
-* Ecologia
-* Ecosphere
-* Journal of Experimental Botany
-* Plant and Soil
-* Plant Physiology
-* PLOS ONE
-* Scientific Reports
+Manuscripts reviewed for Annals of Botany, Biology and Fertility of Soils, Ecologia, Ecosphere, Journal of Experimental Botany, Plant and Soil, Plant Physiology, PLOS ONE, Scientific Reports.
 
 ## Selected Professional Experience
 
