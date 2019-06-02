@@ -93,18 +93,18 @@ Manuscripts reviewed for:
 
 ## Selected Professional Experience
 
-Postdoctoral Scholar, Pennsylvania State University. Apr. 2017 - present.
+Postdoctoral Scholar, Pennsylvania State University. 2017-present.
 
-R Programmer, National Center for Supercomputing Applications, Urbana IL. Feb. 2017 - present.
+R Programmer, National Center for Supercomputing Applications. 2017-2018.
 
-Research Assistant, University of Illinois/Energy Biosciences Institute, Urbana IL. 2009-2015.
+Research Assistant, University of Illinois/Energy Biosciences Institute. 2009-2015.
 
-Teaching Assistant, University of Illinois School of Integrative Biology, Urbana IL:
+Teaching Assistant, University of Illinois School of Integrative Biology:
 
 * IB 100 Integrative Biology, 2016.
 * IB 411 Bioinspiration, 2015
 * IB 203 Ecology, 2013
 
-Plant Genomics Research NSF-REU intern, Boyce Thompson Institute, Ithaca NY. 2007.
+Plant Genomics Research NSF-REU intern, Boyce Thompson Institute. 2007.
 
-Web Developer, Reed College, 2004-2007.
+Web Developer, Reed College. 2004-2007.
