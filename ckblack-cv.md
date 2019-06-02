@@ -3,13 +3,18 @@
 
 chris@ckblack.org, +1 503 929 9421
 
+
 ## Education
+
 Ph.D., Plant Biology. University of Illinois 2016.
 
 B.A., Biology. Reed College 2008.
 
+
 ## What I Do
+
 Modeling, data wrangling, and biology. Research interests in ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in Bayesian statistics, reproducible data analysis, R and C++  application development, and programming for high-performance computing environments. Less special skill: very good at digging holes.
+
 
 ## Publications
 
@@ -69,6 +74,7 @@ Lin, R., Teng, Y., Park, H.J., Ding, L., **Black, C.**, Fang, P., Wang, H. 2008.
 
 John R. Laughnan award from the University of Illinois Department of Plant Biology, 2015.
 
+
 ## Service
 
 Officer for Plant Biology Association of Graduate Students (PBAGS), University of Illinois: Chair 2014-2015, Graduate Affairs committee, 2013-2014, Colloquium coordinator 2012-2013.
@@ -76,6 +82,7 @@ Officer for Plant Biology Association of Graduate Students (PBAGS), University o
 Bio-Outreach program, University of Illinois. 2010.
 
 Manuscripts reviewed for Annals of Botany, Biology and Fertility of Soils, Ecologia, Ecosphere, Journal of Experimental Botany, Plant and Soil, Plant Physiology, PLOS ONE, Scientific Reports.
+
 
 ## Selected Professional Experience
 
