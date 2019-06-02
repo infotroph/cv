@@ -57,7 +57,7 @@ Lin, R., Teng, Y., Park, H.J., Ding, L., **Black, C.**, Fang, P., Wang, H. 2008.
 
 <!-- not yet presented: SEB 2019 poster -->
 
-**Black, C.K.**, Schäfer, E.D., Lynch, JP. December 2018. Better modeling of root-soil interactions by explicit representation of soil hardness. American Geophysical Union annual meeting.
+**Black, C.K.**, Schäfer, E.D., Lynch, J.P. December 2018. Better modeling of root-soil interactions by explicit representation of soil hardness. American Geophysical Union annual meeting.
 
 **Black, C.K.**, Masters, M.D., LeBauer, D.S., Anderson-Teixeira, K.J., DeLucia, E.H. June 2017. Root volume distribution of maturing perennial grasses revealed by correcting for minirhizotron surface effects. University of Missouri Interdisciplinary Plant Group annual symposium.
 
