@@ -29,36 +29,45 @@ Anderson-Teixeira, K.J., Masters, M.D., **Black, C.K.**, Zeri, M., Hussain, M.Z.
 
 Lin, R., Teng, Y., Park, H.J., Ding, L., **Black, C.**, Fang, P., Wang, H. 2008. Discrete and essential roles of the multiple domains of arabidopsis FHY3 in mediating phytochrome A signal transduction. Plant Physiology 148: 981-992. DOI: [10.1104/pp.108.120436](http://dx.doi.org/10.1104/pp.108.120436)
 
-## Presentations
 
-**Black, C.K.**, Davis, S.C, Hudiburg, T.W., Bernacchi, C.J., DeLucia, E.H. 2015. "Climate change increases soil C losses from a corn-soy ecosystem". Poster presented at the American Geophysical Union annual meeting, December 2015.
+## Invited talks
 
-**Black, C.K.**, Masters, M.D., Anderson-Teixeira, K.J., DeLucia, E.H. 2015. "3 m up, >1.3 m under: Tracking carbon fluxes of a change from Midwestern row crops to perennial grasses". Oral paper presented at the Ecological Society of America annual meeting, August 2015.
+**Black, C.K.** November 2017. Inferring root-soil interactions: When samples are expensive, a model can help. Department seminar, University of Arkansas at Little Rock.
 
-**Black, C.K.**, Miller, J.M., Masters, M.D., Bernacchi, C.J. & DeLucia, E.H. "Field-Scale Partitioning of Ecosystem Respiration Components in a Bioenergy Grass Ecosystem". Poster presented at the American Geophysical Union annual meeting, December 2014.
+**Black, C.K.** April 2013. How much carbon, for how long? Chambana Science Café, Urbana IL.
 
-**Black, C.K.**. "How much carbon, for how long?" Invited talk at Chambana Science Café, Urbana IL, April 2013.
 
-**Black, C.K.**, Davis, S.C., Bernacchi, C.J., DeLucia, E.H. "Elevated temperature and carbon dioxide prime soil-specific increases in heterotrophic respiration". Oral paper presented at the Ecological Society of America annual meeting, August 2012.
+## Contributed talks
 
-**Black, C.K.**, Davis, S.C., Bernacchi, C.J., DeLucia, E.H. "Transient increases of heterotrophic respiration from soil with elevated atmospheric carbon dioxide and temperature". Oral paper presented at the Ecological Society of America annual meeting, August 2011.
+**Black, C.K.**, Lynch, J.P. November 2018. Accounting for soil hardness to resculpt root systems. International Soil Modeling Consortium conference.
 
-**Black, C.K.**, Davis, S.C., Bernacchi, C.J., DeLucia, E.H. "Ecosystem warming alters heterotrophic but not total soil respiration at SoyFACE". Poster presented at INTERFACE workshop, Captiva Island FL, February 2011.
+**Black, C.K.**, Masters, M.D., Anderson-Teixeira, K.J., DeLucia, E.H. August 2015. 3 m up, >1.3 m under: Tracking carbon fluxes of a change from Midwestern row crops to perennial grasses. Ecological Society of America annual meeting.
 
-**Black, C.K.**, Davis, S.C., Bernacchi, C.J., DeLucia, E.H. "Response of soil respiration to ecosystem warming and elevated atmospheric carbon dioxide." Poster presented at the Ecological Society of America annual meeting, August 2010.
+**Black, C.K.**, Davis, S.C., Bernacchi, C.J., DeLucia, E.H. August 2012. Elevated temperature and carbon dioxide prime soil-specific increases in heterotrophic respiration. Ecological Society of America annual meeting.
+
+**Black, C.K.**, Davis, S.C., Bernacchi, C.J., DeLucia, E.H. August 2011. Transient increases of heterotrophic respiration from soil with elevated atmospheric carbon dioxide and temperature. Ecological Society of America annual meeting.
+
+
+## Posters
+
+<!-- not yet presented: SEB 2019 poster -->
+
+**Black, C.K.**, Schäfer, E.D., Lynch, JP. December 2018. Better modeling of root-soil interactions by explicit representation of soil hardness. American Geophysical Union annual meeting.
+
+**Black, C.K.**, Masters, M.D., LeBauer, D.S., Anderson-Teixeira, K.J., DeLucia, E.H. June 2017. Root volume distribution of maturing perennial grasses revealed by correcting for minirhizotron surface effects. University of Missouri Interdisciplinary Plant Group annual symposium on Root Biology.
+
+**Black, C.K.**, Davis, S.C, Hudiburg, T.W., Bernacchi, C.J., DeLucia, E.H. December 2015. Climate change increases soil C losses from a corn-soy ecosystem. American Geophysical Union annual meeting.
+
+**Black, C.K.**, Miller, J.M., Masters, M.D., Bernacchi, C.J. & DeLucia, E.H. December 2014. Field-Scale Partitioning of Ecosystem Respiration Components in a Bioenergy Grass Ecosystem. American Geophysical Union annual meeting.
+
+**Black, C.K.**, Davis, S.C., Bernacchi, C.J., DeLucia, E.H. February 2011. Ecosystem warming alters heterotrophic but not total soil respiration at SoyFACE. INTERFACE workshop, Captiva Island FL.
+
+**Black, C.K.**, Davis, S.C., Bernacchi, C.J., DeLucia, E.H. August 2010. Response of soil respiration to ecosystem warming and elevated atmospheric carbon dioxide. Ecological Society of America annual meeting.
 
 
 ## Honors and Awards
 
 John R. Laughnan award from the University of Illinois Department of Plant Biology, 2015.
-
-Internship in Plant Genomics at Boyce Thompson Institute, supported by NSF Research Experience for Undergraduates grant DBI0453331, 2007. 
-
-Thesis research supported by a grant to Reed College from the James F. and Marion L. Miller Foundation, 2007-2008.
-
-Undergraduate research supported by a grant to Reed College from the James F. and Marion L. Miller Foundation, 2006.
-
-Faculty commendation for academic excellence, Reed College 2004-2005.
 
 ## Service
 
