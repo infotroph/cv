@@ -1,12 +1,18 @@
+SRC := $(wildcard *.md)
+HTML = $(patsubst %.md,%.html,$(SRC))
+PDF = $(patsubst %.md,%.pdf,$(SRC))
 
-ALL=ckblack-cv.md ckblack_org.css
+all: $(HTML) $(PDF)
 
-all: $(ALL)
-	pandoc -s -S --self-contained -c ckblack_org.css -o ckblack-cv.html ckblack-cv.md 
-	pandoc -s -S --self-contained -c ckblack_org.css -o ckblack-cv.pdf ckblack-cv.md 
+%.pdf: %.md
+	pandoc -s -o $@ $<
+
+%.html: %.md ckblack_org.css
+	pandoc -s --embed-resources -c ckblack_org.css -o $@ $<
 
 publish: ckblack-cv.html
 	scp ckblack-cv.html ckblack.org:~/ckblackorg/cv.html
-	
+
+.PHONY: clean
 clean:
-	rm $(ALL)
+	rm $(HTML) $(PDF)
