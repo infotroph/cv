@@ -6,7 +6,7 @@ chris@ckblack.org, +1 503 929 9421
 
 ## What I Do
 
-Modeling, data wrangling, and biology. Research interests in ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in Bayesian statistics, reproducible data analysis, R and C++  application development, and programming for high-performance computing environments. Less special skill: very good at digging holes.
+Modeling, data wrangling, carbon accounting, and biology. Research interests in ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in model validation, Bayesian statistics, reproducible & auditable data analysis, and scientific software development including programming for high-performance computing environments. Less special skill: very good at digging holes.
 
 
 ## Education
@@ -18,9 +18,17 @@ B.A., Biology. Reed College 2008.
 
 ## Publications
 
-Burridge, J.D., **Black, C.K.**, Nord, E.A., Postma, J.P., Sidhu, J.S., York, L.M, Lynch, J.P. An analysis of soil coring strategies to estimate root depth. Submitted.
+Mathers, C., **Black, C.K.**, Segal, B.D., Gurung, R.B., Zhang, Y., Easter, M.J., Williams, S., Motew, M., Campbell, E.E., Brummitt, C.D., Paustian, K., Kumar, A.A. 2023. Validating DayCent-CR for cropland soil carbon offset reporting at a national scale. Geoderma 438:116647. DOI: [10.1016/j.geoderma.2023.116647](https://doi.org/10.1016/j.geoderma.2023.116647)
 
-Postma, J.A., **Black, C.K.**. Advances in root architectural modeling during the last decade. In: Understanding and improving crop root function (Peter Gregory, ed.). Burleigh-Dodds. In press, expected June 2020. ISBN: 9781786763600
+Schnepf, A., **Black, C.K.**, Couvreur, V., Delory, B.M., Doussan, C., Heymans, A., Javaux, M., Khare, D., Koch, A., Koch, T., Kuppe, C.W., Landl, M., Leitner, D., Lobet, G., Meunier, F., Postma, J.A., Schäfer, E.D., Selzner, T., Vanderborght, J., Vereecken, H. 2023. Collaborative benchmarking of functional-structural root architecture models: Quantitative comparison of simulated root water uptake. in silico Plants 5(1):diad005. DOI: [10.1093/insilicoplants/diad005](https://doi.org/10.1093/insilicoplants/diad005)
+
+Schäfer, E.D., Owen, M.R., Postma, J.A., Kuppe, C., **Black, C.K.**, & Lynch, J.P. 2022. Simulating Crop Root Systems Using OpenSimRoot. In: Plant Systems Biology (Mikaël Lucas, ed.). Methods in Molecular Biology vol 2395. Humana. 293-323. DOI:[10.1007/978-1-0716-1816-5_15](https://doi.org/10.1007/978-1-0716-1816-5_15). Preprint available at [juser.fz-juelich.de/record/905659](https://juser.fz-juelich.de/record/905659/files/Book%20Chapter%20OpenSimRoot.pdf)
+
+Strock, C.F., Rangarajan, H., **Black, C.K.**, Schäfer, E.D. 2022. Theoretical evidence that root penetration ability interacts with soil compaction regimes to affect nitrate capture. Annals of Botany 129(3):315-330. DOI: [10.1093/aob/mcab144](https://doi.org/10.1093/aob/mcab144). Data and code available at [https://zenodo.org/records/5649468](https://zenodo.org/records/5649468)
+
+Postma, J.A., **Black, C.K.**. 2021. Advances in root architectural modeling. In: Understanding and improving crop root function (Peter Gregory, ed.). Burleigh-Dodds. 3-32. ISBN: 9781786763600. Preprint available at [juser.fz-juelich.de/record/868449](https://juser.fz-juelich.de/record/868449/files/preprint%28accepted%20text%29.pdf)
+
+Burridge, J.D., **Black, C.K.**, Nord, E.A., Postma, J.A., Sidhu, J.S., York, L.M, Lynch, J.P. An analysis of soil coring strategies to estimate root depth in maize (Zea mays) and common bean (Phaseolus vulgaris). 2020. Plant Phenomics 2020(3252703). DOI: [10.34133/2020/3252703](https://doi.org/10.34133/2020/3252703)
 
 Schnepf, A., **Black, C.K.**, Couvreur, V., Delory, B.M., Doussan, C., Koch, A., Koch, T., Javaux, M., Landl, M., Leitner, D., Lobet, G., Mai, T.H., Meunier, F., Petrich, L., Postma, J.A., Priesack, E., Schmidt, V., Vanderborght, J., Vereecken, H., Weber, M. 2020. Call for participation: Collaborative benchmarking of functional-structural root architecture models. The case of root water uptake. Frontiers in Plant Science. DOI: [10.3389/fpls.2020.00316](https://doi.org/10.3389/fpls.2020.00316). Preprint available at [https://doi.org/10.1101/808972](https://doi.org/10.1101/808972)
 
@@ -50,6 +58,8 @@ Lin, R., Teng, Y., Park, H.J., Ding, L., **Black, C.**, Fang, P., Wang, H. 2008.
 
 ## Contributed talks
 
+**Black, C.K.**, Segal, B.D., Mathers, C., Williams, S., Zhang, Y., Gurung, R., Motew, M., Easter, M., Paustian, K., Brummitt, C.D., Campbell, E.E., Kumar, A.A. 2022. Validating DayCent-CR for Soil Carbon Reporting at Scale: One Field at a Time Builds Up to a Continent. American Geophysical Union annual meeting.
+
 **Black, C.K.**, Lynch, J.P. November 2018. Accounting for soil hardness to resculpt root systems. International Soil Modeling Consortium conference.
 
 **Black, C.K.**, Masters, M.D., Anderson-Teixeira, K.J., DeLucia, E.H. August 2015. 3 m up, >1.3 m under: Tracking carbon fluxes of a change from Midwestern row crops to perennial grasses. Ecological Society of America annual meeting.
@@ -76,6 +86,18 @@ Lin, R., Teng, Y., Park, H.J., Ding, L., **Black, C.**, Fang, P., Wang, H. 2008.
 **Black, C.K.**, Davis, S.C., Bernacchi, C.J., DeLucia, E.H. August 2010. Response of soil respiration to ecosystem warming and elevated atmospheric carbon dioxide. Ecological Society of America annual meeting.
 
 
+## Patents
+
+US patents 11810021, 11830089, 11880894; US patent applications 18372287, 20230306531, 20230078852, 20240020775, 20230306531.
+
+
+## Technical Reports
+
+Model Validation Report for DayCent-CR version 1.0. 2021. Prepared for Indigo Ag as part of Climate Action Reserve project CAR1459. Available at [https://www.climateactionreserve.org/wp-content/uploads/2022/11/CAR1459_model_val_DayCentCR_1.0.pdf](https://www.climateactionreserve.org/wp-content/uploads/2022/11/CAR1459_model_val_DayCentCR_1.0.pdf)
+
+Model Validation Report DayCent-CR version 1.0.2. 2022. Prepared for Indigo Ag as part of Climate Action Reserve project CAR1459. Available at [https://www.climateactionreserve.org/wp-content/uploads/2022/11/CAR1459_model_val_DayCentCR_1.0.2.pdf](https://www.climateactionreserve.org/wp-content/uploads/2022/11/CAR1459_model_val_DayCentCR_1.0.2.pdf)
+
+
 ## Honors and Awards
 
 John R. Laughnan award from the University of Illinois Department of Plant Biology, 2015.
@@ -92,7 +114,9 @@ Manuscripts reviewed for Annals of Botany, Biology and Fertility of Soils, Ecolo
 
 ## Selected Professional Experience
 
-Postdoctoral Scholar, Pennsylvania State University. 2017-present.
+Senior Scientist, Indigo Ag. 2020-2024.
+
+Postdoctoral Scholar, Pennsylvania State University. 2017-2020.
 
 R Programmer, National Center for Supercomputing Applications. 2017-2018.
 
