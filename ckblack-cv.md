@@ -9,7 +9,10 @@ chris@ckblack.org, +1 503 929 9421
 
 ## What I Do
 
-Modeling, data wrangling, carbon accounting, and biology. Research interests in ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment. Special skills in model validation, Bayesian statistics, reproducible & auditable data analysis, and scientific software development including programming for high-performance computing environments. Less special skill: very good at digging holes.
+Modeling, data wrangling, carbon accounting, and biology.
+Research interests in ecophysiology, biogeochemistry, and global change ecology of belowground interactions between plants and their environment.
+Special skills in model validation, Bayesian statistics, reproducible & auditable data analysis, and scientific software development including programming for high-performance computing environments.
+Less special skill: Very good at digging holes.
 
 
 ## Education
@@ -113,6 +116,8 @@ Officer for Plant Biology Association of Graduate Students (PBAGS), University o
 Bio-Outreach program, University of Illinois. 2010.
 
 Manuscripts reviewed for Annals of Botany, Biology and Fertility of Soils, Ecologia, Ecosphere, Journal of Experimental Botany, Plant and Soil, Plant Physiology, PLOS ONE, Scientific Reports.
+
+Grant applications reviewed for Foundation for Food and Agricultural Research.
 
 
 ## Selected Professional Experience
