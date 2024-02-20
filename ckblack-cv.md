@@ -1,3 +1,6 @@
+---
+pagetitle: Christopher K. Black Full CV
+---
 
 # Christopher K. Black
 
