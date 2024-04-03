@@ -9,14 +9,17 @@ pagetitle: Christopher K. Black
 chris@ckblack.org, +1 503 929 9421
 
 
-## Key Skills
+## Summary
 
-* [Model validation and protocol compliance](https://doi.org/10.1016/j.geoderma.2023.116647) for carbon and greenhouse gas accounting.
-* [Scientific expertise](https://scholar.google.com/citations?user=IhkxW-kAAAAJ) in plant biology, soil science, carbon cycling, ecology.
+Scientist and programmer focused on how climate and agriculture affect each other, with a specialty in [model validation and protocol compliance](https://doi.org/10.1016/j.geoderma.2023.116647) for carbon and greenhouse gas accounting.
+
+* Scientific expertise in plant biology, soil science, carbon cycling, ecology.
+	Publications: [google.com/scholar?q=Christopher+K+Black](https://scholar.google.com/scholar?q=Christopher+K+Black).
 * Data science and statistics, with a specialty in sparse, messy, or strangely distributed datasets.
 * Numerical modeling of complex biological systems, with emphasis on reproducible and auditable answers to real-world questions.
-* [Programming](https://github.com/infotroph) in R, Python, bash, C++, Stan, PostgreSQL, and others.
-* Project management and quality assurance: Testing, continuous integration, Git,  GitHub, package development, scientific and technical writing.
+* Programming in R, Python, bash, C++, Stan, PostgreSQL, and others.
+	Code: [github.com/infotroph](https://github.com/infotroph).
+* Project management and quality assurance: Testing, continuous integration, Git, GitHub, package development, scientific and technical writing.
 
 
 ## Education
@@ -26,6 +29,12 @@ chris@ckblack.org, +1 503 929 9421
 
 
 ## Experience
+
+### President, Pools and Fluxes LLC (since 2024)
+
+* Proprietor of consultancy providing strategic advice on integrating ecosystem modeling capabilities into existing businesses.
+* Custom development of models and modeling pipelines.
+
 
 ### Senior Scientist, Indigo Ag (2020-2024)
 
